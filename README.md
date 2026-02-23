@@ -1,6 +1,6 @@
 # Meta-Horizon-Feedback-Center
 Bookmarklet test scripts for the new feedback center.\
-Why? To make the script easier to share with other testers.\
+Why? To make the script easier to share with other testers.
 
 ## How to Install and Use
 1. Create a Bookmark: Right-click your bookmarks bar and select Add Page... (or similar).

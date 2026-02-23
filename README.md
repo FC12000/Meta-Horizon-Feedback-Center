@@ -1,5 +1,12 @@
 # Meta-Horizon-Feedback-Center
-Test scripts for the new feedback center
+Bookmarklet test scripts for the new feedback center.\
+Why? To make the script easier to share with other testers.\
+
+## How to Install and Use
+1. Create a Bookmark: Right-click your bookmarks bar and select Add Page... (or similar).
+2. Set Name: Name it something like "Count Meta Investigations".
+3. Paste Code: Copy the entire javascript: block above and paste it into the URL (or Location) field.
+4. Run It: Navigate to the Meta Horizon Investigations page and click your new bookmark. 
 
 ### investigation_count.js
 v1.1\
